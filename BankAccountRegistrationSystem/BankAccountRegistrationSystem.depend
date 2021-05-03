@@ -1,12 +1,12 @@
 # depslib dependency file v1.0
-1620063021 source:e:\it\c++\projects\bankaccountregistrationsystem\main.cpp
+1620071647 source:e:\it\c++\projects\bankaccountregistrationsystem\main.cpp
 	<iostream>
 	"account.h"
 
-1620029958 e:\it\c++\projects\bankaccountregistrationsystem\account.h
+1620071658 e:\it\c++\projects\bankaccountregistrationsystem\account.h
 	<iostream>
 	<fstream>
 
-1620067561 source:e:\it\c++\projects\bankaccountregistrationsystem\account.cpp
+1620071692 source:e:\it\c++\projects\bankaccountregistrationsystem\account.cpp
 	"account.h"
 
